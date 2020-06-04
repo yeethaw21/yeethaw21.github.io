@@ -1,5 +1,5 @@
 # email-your-reps.github.io
-email-your-reps.github.io produces a pre-written email template that you can send to officials regarding police brutality against protestors in Raleigh, NC. Just click the link, fill in the info, and hit send.
+email-your-reps.github.io produces a pre-written email template that you can send to officials regarding police brutality against protestors in Raleigh, NC. Just click the link, fill in the info, and hit send. The message body here uses an edited combination of phone/email scripts and talking points taken from @maasaipg, @gso_mutual_aid, and @trophypartner as well as my own input.
 
 Created by <https://github.com/tiffkwin>
 
