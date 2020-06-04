@@ -2,7 +2,7 @@
 
 ### Setting Up Your Own Email Template
 1. Fork this GitHub repository 
-<img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png" width=300>
+<img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png" width=500>
 2. In the repository, go to Settings ![](https://guides.github.com/features/pages/repo-settings.png)
 3. Under the Repository Name section, edit your repo name to be ```[your_github_username].github.io``` ![](https://github-images.s3.amazonaws.com/enterprise/2.14/assets/images/help/repository/repository-name-change.png)
 4. Scroll down to the GitHub Pages section and make sure it says ```Your GitHub Pages site is currently being built from the master branch``` If it doesn't, then select ```master branch``` as the source. ![](https://guides.github.com/features/pages/launch-theme-chooser.png)
