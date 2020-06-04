@@ -2,7 +2,7 @@
 
 ### Setting Up Your Own Email Template
 1. Fork this GitHub repository 
-![](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+<img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png" width=500/>
 2. In the repository, go to Settings 
 ![](https://guides.github.com/features/pages/repo-settings.png)
 3. Under the Repository Name section, edit your repo name to be ```[your_github_username].github.io```
