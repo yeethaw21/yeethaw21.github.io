@@ -10,4 +10,5 @@
 4. Scroll down to the GitHub Pages section and make sure it says ```Your GitHub Pages site is currently being built from the master branch``` If it doesn't, then select ```master branch``` as the source.
 <img src="https://guides.github.com/features/pages/launch-theme-chooser.png" width=500>
 5. Edit index.html file to suit your needs. Change the mailto: address, the subject, the bcc recipients, and the message body to whatever you need them to be. (Tip: In the message body, if you need to add in a line break, use ```%0D%0A```)
+
 6. You should then be able to navigate to https://[your_github_username].github.io and it will produce the prewritten email. It may take a bit for the changes to load on the site.
